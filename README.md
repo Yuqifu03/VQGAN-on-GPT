@@ -1,4 +1,4 @@
-# VQGAN-on-GPT-and-pixelRNN
+# VQGAN-on-GPT
 
 Project for CSC2503
 
