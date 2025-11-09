@@ -7,6 +7,15 @@ Project for CSC2503
 1. vqgan_transformer_wasserstein.py: VQGAN+GPT **with** wasserstein tokenization
 2. vqgan_transformer.py: VQGAN+GPT **without** wasserstein tokenization
 
+## Installation
+
+Clone this repository and install the dependencies:
+
+```bash
+git clone https://github.com/yourusername/yourproject.git
+cd yourproject
+pip install -r requirements.txt
+
 ## Training pipline(Training without wasserstein tokenization as an example, same for vqgan_transformer_wasserstein.py)
 
 ### VQ-GAN Training
